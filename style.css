@@ -1,0 +1,25 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css');
+html,
+body {
+  height: 100%;
+  width:100%;
+  padding:0px;
+  margin:0px;
+}
+
+body {
+	background-image: url('bond.jpg'); 
+	background-size: cover; 
+	background-position: center;
+}
+
+.hor-center-div {
+	margin:auto;
+}
+
+#killshot-form {
+	padding:20px; 
+	background-color: rgba(0,0,0,0.7);
+	border:5px solid black; 
+	border-radius: 25px;
+}
